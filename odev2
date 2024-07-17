@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+     <!-- Seo için Gerekli Kısımlar -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İlk Proje</title>
+</head>
+<body>
+    <h1> Muhammet Doğan </h1>  <!-- En Büyük Başlık -->
+    <img src="images.jpg" alt="Kocaeli">
+
+    <h2> Hakkımda </h2>  <!-- Alt Başlık  -->
+    <p> Merhaba, ben Muhammet Doğan Bilgisayar Mühendisliği okuyorum.</p> <!-- Paragraf Satırları -->
+
+    <h2> Sevdiğim Diziler </h2>
+    <ol>
+        <li>Sevdiğim Şehirler</li>
+        <ul>
+            <li>Kocaeli</li>
+            <li>Ankara</li>
+
+        </ul>
+        <li style="color: red;">Sevdiğim Filmler</li>
+        <ul>
+            <a href="https://www.kodluyoruz.org/product/ibm-ile-kodluyoruz-cyberstart"> <li>  Hep Yek</li></a>
+            <li>Ölümlü Dünya</li>
+
+        </ul>
+        <li style="color: yellow;"> Sevdiğim Ülkeler</li>
+        <ul>
+            <a href="https://www.google.com.tr"><li>Almanya</li></a>
+            <li><strong>Kanada</strong></li>
+        </ul>
+        
+    </ol>
+    <!-- Yorum Satırları -->
+    
+</body>
+</html>
